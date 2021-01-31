@@ -4,7 +4,7 @@
 
 Try it [here](https://bcherrera14.github.io/snake-game/)
 
-<img src="./SnakeGame.PNG" alt="alt text" width="400px">
+<img src="./snakegame_v1.gif" alt="snake" width="700px">
 
 ## Summary
 
